@@ -1,0 +1,22 @@
+.reddy {
+  background-color: red;
+  color: green;
+  border: 2px solid black;
+}
+li {
+  list-style: none;
+}
+nav,
+ul {
+  display: flex;
+  text-decoration: none;
+  text-decoration: none;
+
+  padding: 16px;
+}
+NavLink {
+  text-decoration: none;
+}
+.bordering {
+  background-color: black;
+}
